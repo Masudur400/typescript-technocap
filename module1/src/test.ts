@@ -1,1 +1,3 @@
-let test = 'i am testing'
+{
+    let test = 'i am testing'
+}

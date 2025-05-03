@@ -1,4 +1,5 @@
-// Basic Data Type 
+{
+    // Basic Data Type 
 
 // String 
 let firstName : string = 'First Name'
@@ -31,3 +32,5 @@ let roll : number[] = [12, 45]
 // tuple 
 let names : [string, string] = ['rana', 'vai']
 let ageName : [number, string] = [12, 'rana']
+
+}

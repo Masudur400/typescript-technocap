@@ -1,4 +1,5 @@
-// Reference type ---> Object 
+{
+    // Reference type ---> Object 
 const user : {
     firstName : string;
      middleName ? : string; //optional type
@@ -6,4 +7,6 @@ const user : {
 } = {
     firstName : 'Masudur', 
     lastName : 'Rana'
+}
+
 }
